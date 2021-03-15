@@ -1,7 +1,7 @@
 import requests
 
 """
-	Bing browser may take many days to crawl your webpage, google will take around 3 days but bing almost 30 days.
+	Bing browser will take many days to crawl your webpage, google takes around 3.
 	The best way is to send your page URL through their API.
 	https://www.bing.com/webmasters/url-submission-api
 """
